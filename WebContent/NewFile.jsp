@@ -7,15 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<p>haole</p>
-
-<p>修改网页</p>
-<from action="">
-
-
-
-
-</from>
+<span>THIRD</span>
 >>>>>>> branch 'master' of https://github.com/liujicong6/first_resp.git
 </body>
 </html>
