@@ -9,7 +9,7 @@
 <body>
 		<p>haole</p>
 
-<p>修改网页</p><p>修改</p>
+<p>修改网页</p>
 >>>>>>> branch 'master' of https://github.com/liujicong6/first_resp.git
 </body>
 </html>
